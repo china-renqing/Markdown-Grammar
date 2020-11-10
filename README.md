@@ -1,5 +1,3 @@
-"# Markdown-Grammar" 
-
 # 基于Typora的Markdown文件的快捷写法（语法）
 
 ### Hi there 👋
